@@ -1,6 +1,6 @@
 resources:
   - argocd-permissions.yaml
-  - https://github.com/redhat-appstudio/service-provider-integration-operator/config/default?ref=7abc78001694bb3e6da3240f8b99102935307a6a
+  - https://github.com/psav/service-provider-integration-operator/config/default?ref=35555f259a1968341bd3f6b9a325f262d9110704
   - oauth_route.yaml
   - https://github.com/redhat-appstudio/service-provider-integration-scm-file-retriever/server/config/default?ref=4edb96c318f86ae3124c139fa775754966baea4d
   - scm_route.yaml
