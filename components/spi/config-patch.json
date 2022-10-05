@@ -8,5 +8,10 @@
     "op": "add",
     "path": "/data/VAULTAUTHMETHOD",
     "value": "kubernetes"
+  },
+  {
+    "op": "replace",
+    "path": "/data/BASEURL",
+    "value": ""
   }
 ]
