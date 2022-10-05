@@ -10,8 +10,8 @@
     "value": "kubernetes"
   },
   {
-    "op": "add",
-    "path": "/data/BASEURL2",
+    "op": "replace",
+    "path": "/data/BASEURL",
     "value": "i"
   }
 ]
