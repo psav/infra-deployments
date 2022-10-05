@@ -12,6 +12,6 @@
   {
     "op": "replace",
     "path": "/data/BASEURL",
-    "value": "i"
+    "value": "https://spi-oauth-route-spi-system.apps.appstudio-stage.x99m.p1.openshiftapps.com"
   }
 ]

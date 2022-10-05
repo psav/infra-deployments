@@ -37,9 +37,6 @@ else
     SPI_BASE_URL=${2}
 fi
 
-#THIS IS A GIANT HACK
-SPI_BASE_URL=""
-
 if [ -z ${3} ]; then
     VAULT_INSECURE_TLS="true"
 else
