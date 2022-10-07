@@ -13,5 +13,10 @@
     "op": "replace",
     "path": "/data/BASEURL",
     "value": "https://spi-oauth-route-spi-system.apps.appstudio-stage.x99m.p1.openshiftapps.com"
+  },
+  {
+    "op": "add",
+    "path": "/data/API_SERVER",
+    "value": "https://api-toolchain-host-operator.apps.hac-devsandbox.5unc.p1.openshiftapps.com"
   }
 ]
